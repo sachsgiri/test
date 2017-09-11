@@ -1,1 +1,1 @@
-hello, change this line to "welcome to git" and before pushing notify me.
+"Weclcome to git"
